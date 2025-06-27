@@ -6,6 +6,9 @@
 .center{
 	text-align: center;
 }
+.right{
+	text-align:right;
+}
 td{
 	border:1px solid black;
 	padding:1px;
